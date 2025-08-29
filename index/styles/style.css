@@ -19,3 +19,15 @@ aside.w-64.bg-cyber-gray.border-r.border-gray-800.flex.flex-col {
 .pad.border-gray-800 {
     padding: 5px;
 }
+
+.grid.grid-cols-1.md\:grid-cols-2.lg\:grid-cols-4.gap-6.mb-8 div.glass-panel {
+    background: transparent;
+}
+
+.lg\:col-span-2 {
+    background: #00000000;
+}
+
+.glass-panel.rounded-xl.p-6 {
+    background: #00000000;
+}
